@@ -13,7 +13,7 @@ function App() {
 
   return (
     <div className="app">
-    <h1>hello world osam Hyy didis</h1>
+    <h1>hello ragini</h1>
       <h1>🍲 Recipe Sharing App 🍲</h1>
       <RecipeForm addRecipe={addRecipe} />
       <RecipeList recipes={recipes} />
